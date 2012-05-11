@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    by_params (0.0.1)
+
 GEM
   remote: http://ruby.taobao.org/
   specs:
@@ -27,5 +32,6 @@ PLATFORMS
 
 DEPENDENCIES
   activeresource (~> 3.0.3)
+  by_params!
   rake
   rspec (~> 2.6.0)
